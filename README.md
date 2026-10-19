@@ -29,7 +29,7 @@ I earned the **Nutanix Certified Associate 7 (NCA 7)**  (exam version **NCA 7.5*
 
 ## 📚 What You Need to Study
 
-The exam is organised into **4 sections** (Nutanix does not publish percentage weights).
+The exam is organised into **4 sections**.
 
 ### Section 1 – Recognize Nutanix Solutions and Tools
 - Nutanix Cloud Infrastructure (NCI): **AOS** (distributed storage), **AHV** (hypervisor), **Prism**
